@@ -10,7 +10,7 @@ export default {
     srcDir: '../src/',
     themeConfig: {
         nav: [
-            { text: 'Example', link: '/example' },
+            { text: 'author', link: 'https://github.com/certunia' },
         ],
         sidebar: getSidebar({ contentRoot: '/src', collapsible: true, collapsed: false })
     }
