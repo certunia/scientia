@@ -8,6 +8,7 @@ export default {
     title: 'My knowledge',
     description: 'Welcome to my repository, where I store my personal knowledge base!',
     srcDir: '../src/',
+    outDir: '../public',
     themeConfig: {
         nav: [
             { text: 'author', link: 'https://github.com/certunia' },
